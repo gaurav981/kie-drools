@@ -42,7 +42,7 @@
             </goals>
             <configuration>
                 <basedir>./</basedir>
-		<includes>*,src/main/java/org/rules/*</includes>
+		<includes>*,src/main/java/org/mortgages/*</includes>
 		<workingDirectory>./</workingDirectory>
             </configuration>
          </execution>
@@ -54,7 +54,7 @@
             </goals>
             <configuration>
                 <basedir>./</basedir>
-                <includes>*,src/main/java/org/rules/*</includes>
+                <includes>*,src/main/java/org/mortgages/*</includes>
                 <message>rules change testing</message>
             </configuration>
          </execution>
